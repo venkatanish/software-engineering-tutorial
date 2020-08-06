@@ -1,6 +1,6 @@
 import java.util.Scanner;
 //can add comment here
-//scond comment here
+//e
 public class javaAdd
 {
 	public static void main(String args[])
