@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//can add comment here
 public class javaAdd
 {
 	public static void main(String args[])
