@@ -11,7 +11,7 @@ public class javaAdd
 		{
 			System.out.println("1 to add");
 			System.out.println("2 to subtract");
-			System.out.println("3 to exit");
+			System.out.println("3 ");
 			System.out.println("Enter choice ");
 			choice = scan.next().charAt(0);
 			switch(choice)
