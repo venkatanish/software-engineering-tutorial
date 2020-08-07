@@ -15,6 +15,7 @@ public class javaAdd
 			System.out.println("3 ");
 			System.out.println("Enter choice ");
 			choice = scan.next().charAt(0);
+			System.out.println("Hello world modified by firstteam");
 			switch(choice)
 			{
 				case '1' : System.out.print("enter 2 numbers : ");
